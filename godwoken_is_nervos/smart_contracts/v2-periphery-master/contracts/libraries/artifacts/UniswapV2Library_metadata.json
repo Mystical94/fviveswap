@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"godwoken_is_nervos/smart_contracts/v2-periphery-master/contracts/libraries/UniswapV2Library.sol": "UniswapV2Library"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol": {
+			"keccak256": "0x7c9bc70e5996c763e02ff38905282bc24fb242b0ef2519a003b36824fc524a4b",
+			"urls": [
+				"bzz-raw://85d5ad2dd23ee127f40907a12865a1e8cb5828814f6f2480285e1827dd72dedf",
+				"dweb:/ipfs/QmayKQWJgWmr46DqWseADyUanmqxh662hPNdAkdHRjiQQH"
+			]
+		},
+		"godwoken_is_nervos/smart_contracts/v2-periphery-master/contracts/libraries/SafeMath.sol": {
+			"keccak256": "0xded2f1823779fd511638cc079b2ff552b51dd6154091b240488d9cbcedfcebac",
+			"urls": [
+				"bzz-raw://a186f7cfe1a13f932c69057f40a58c8e34e78c7afc670cb742a22cb6223a7dd7",
+				"dweb:/ipfs/QmTcfdX5KoJTEbgp3nuP1vNwcyjef1HH9LALzRzsAMmSAN"
+			]
+		},
+		"godwoken_is_nervos/smart_contracts/v2-periphery-master/contracts/libraries/UniswapV2Library.sol": {
+			"keccak256": "0x4349489175878813babb358cf284706a355bf522ac56c3d641ff8cd25e5aa23d",
+			"urls": [
+				"bzz-raw://f5a51f8dbe6d5d818736b9f4c9eb5a206f996488cd51a9ed20207b32f29c16cb",
+				"dweb:/ipfs/QmWW8xaakqYF363bmVtDzZ9r4FxnsmpcQ5CnNuMfdYBZT1"
+			]
+		}
+	},
+	"version": 1
+}

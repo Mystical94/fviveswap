@@ -1,0 +1,77 @@
+{
+	"id": "2d12368b3e3106a3ca15bf7cab3684e4",
+	"_format": "hh-sol-build-info-1",
+	"solcVersion": "0.4.18",
+	"solcLongVersion": "0.4.18+commit.9cf6e910",
+	"input": {
+		"language": "Solidity",
+		"sources": {
+			"aurora_is_near/smart_contracts/v2-periphery-master/contracts/multicall1.sol": {
+				"content": ""
+			}
+		},
+		"settings": {
+			"optimizer": {
+				"enabled": true,
+				"runs": 200
+			},
+			"outputSelection": {
+				"*": {
+					"": [
+						"ast"
+					],
+					"*": [
+						"abi",
+						"metadata",
+						"devdoc",
+						"userdoc",
+						"storageLayout",
+						"evm.legacyAssembly",
+						"evm.bytecode",
+						"evm.deployedBytecode",
+						"evm.methodIdentifiers",
+						"evm.gasEstimates",
+						"evm.assembly"
+					]
+				}
+			}
+		}
+	},
+	"output": {
+		"contracts": {},
+		"errors": [
+			{
+				"component": "general",
+				"formattedMessage": "aurora_is_near/smart_contracts/v2-periphery-master/contracts/multicall1.sol:1:1: Warning: Source file does not specify required compiler version!Consider adding \"pragma solidity ^0.4.18\n\n^\n",
+				"message": "Source file does not specify required compiler version!Consider adding \"pragma solidity ^0.4.18",
+				"severity": "warning",
+				"type": "Warning"
+			}
+		],
+		"sources": {
+			"aurora_is_near/smart_contracts/v2-periphery-master/contracts/multicall1.sol": {
+				"ast": {
+					"absolutePath": "aurora_is_near/smart_contracts/v2-periphery-master/contracts/multicall1.sol",
+					"exportedSymbols": {},
+					"id": 1,
+					"nodeType": "SourceUnit",
+					"nodes": [],
+					"src": "0:0:0"
+				},
+				"id": 0,
+				"legacyAST": {
+					"attributes": {
+						"absolutePath": "aurora_is_near/smart_contracts/v2-periphery-master/contracts/multicall1.sol",
+						"exportedSymbols": {},
+						"nodes": [
+							null
+						]
+					},
+					"id": 1,
+					"name": "SourceUnit",
+					"src": "0:0:0"
+				}
+			}
+		}
+	}
+}
