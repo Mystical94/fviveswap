@@ -3,9 +3,9 @@ A one point destination to swap your cryptos on five different blockchains
 
 ## FviveSwap Interface for for different blockchain networks
 
-<img src="images/swap_page.png" alt="Logo" width="80" height="80">
+<img src="images/swap_page.png" alt="Logo">
 
-<img src="images/pool_page.png" alt="Logo" width="80" height="80">
+<img src="images/pool_page.png" alt="Logo">
 
 ## Deploying the FviveSwap on local machine
 
