@@ -1,9 +1,9 @@
 # fviveswap
 A one point destination to swap your cryptos on five different blockchains
 
-## FviveSwap Interface for Polygon(Matic) Network
+## FviveSwap Interface for Aurora(EVM Blockchain Layer for NEAR) Network
 
-An open source interface for FviveSwap -- a protocol for decentralized exchange on Polygon.
+An open source interface for FviveSwap -- a protocol for decentralized exchange on Aurora.
 
 Enabling users to:
 
@@ -13,16 +13,16 @@ Enabling users to:
 Future Plans:
 
 - Add the functinality of Farming, Staking and Limit Orders
-- Making it live on the Polygon Blockchain (coming very soon 😉)
+- Making it live on the Aurora Blockchain (coming very soon 😉)
 
 ## Deploying the FviveSwap on local machine
 
 Clone the repository
 
-move into the polygon Directory
+move into the aurora_is_near Directory
 
 ```sh
-cd polygon
+cd aurora_is_near
 ```
 
 move into the UserInterface Directory
